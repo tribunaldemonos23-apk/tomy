@@ -1,0 +1,94 @@
+[23:42:26] [main/ERROR]: Failed to load properties from file: server.properties
+[23:42:27] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:42:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:42:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:42:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:42:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:42:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:42:28] [main/INFO]: Reloading ResourceManager: Default
+[23:42:29] [Worker-Main-2/INFO]: Loaded 7 recipes
+[23:42:29] [Worker-Main-2/INFO]: Loaded 927 advancements
+[23:42:32] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:42:32] [Server thread/INFO]: Loading properties
+[23:42:32] [Server thread/INFO]: Default game type: SURVIVAL
+[23:42:32] [Server thread/INFO]: Generating keypair
+[23:42:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:42:32] [Server thread/INFO]: Using epoll channel type
+[23:42:32] [Server thread/INFO]: Preparing level "world"
+[23:42:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:42:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:42:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:42:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:42:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:42:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:42:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:42:42] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:42:43] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:42:43] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[23:42:44] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[23:42:44] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[23:42:45] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[23:42:45] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[23:42:46] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[23:42:46] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[23:42:47] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[23:42:47] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[23:42:48] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[23:42:48] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[23:42:49] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[23:42:49] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[23:42:50] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[23:42:50] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[23:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[23:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[23:42:52] [Worker-Main-2/INFO]: Preparing spawn area: 30%
+[23:42:52] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[23:42:53] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[23:42:53] [Worker-Main-2/INFO]: Preparing spawn area: 35%
+[23:42:54] [Worker-Main-2/INFO]: Preparing spawn area: 39%
+[23:42:54] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[23:42:55] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[23:42:55] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[23:42:56] [Worker-Main-2/INFO]: Preparing spawn area: 45%
+[23:42:56] [Worker-Main-2/INFO]: Preparing spawn area: 47%
+[23:42:57] [Worker-Main-2/INFO]: Preparing spawn area: 49%
+[23:42:57] [Worker-Main-2/INFO]: Preparing spawn area: 52%
+[23:42:58] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[23:42:58] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[23:42:59] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[23:42:59] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[23:43:00] [Worker-Main-2/INFO]: Preparing spawn area: 61%
+[23:43:00] [Worker-Main-2/INFO]: Preparing spawn area: 64%
+[23:43:01] [Worker-Main-2/INFO]: Preparing spawn area: 65%
+[23:43:01] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[23:43:02] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[23:43:02] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[23:43:03] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[23:43:03] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[23:43:04] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[23:43:04] [Worker-Main-2/INFO]: Preparing spawn area: 81%
+[23:43:05] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[23:43:05] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[23:43:06] [Worker-Main-2/INFO]: Preparing spawn area: 88%
+[23:43:06] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[23:43:07] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[23:43:07] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[23:43:08] [Worker-Main-2/INFO]: Preparing spawn area: 98%
+[23:43:08] [Server thread/INFO]: Time elapsed: 28803 ms
+[23:43:08] [Server thread/INFO]: Done (35.946s)! For help, type "help"
+[23:43:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:43:55] [Server thread/INFO]: 	SSSS/home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
+[23:44:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:44:00] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
+[23:45:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:45:12] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
+[23:45:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:45:45] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
+[23:45:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:45:48] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
+[23:45:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:45:57] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
+[23:46:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:46:06] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
+[23:46:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:46:56] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 "/workspaces/tomy/server (3).py"<--[HERE]
