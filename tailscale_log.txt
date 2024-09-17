@@ -108,3 +108,16 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/09/16 23:42:16 control: NetInfo: NetInfo{varies=false hairpin= ipv6=false ipv6os=true udp=true icmpv4=false derp=#1 portmap= link="" firewallmode="ipt-default"}
 2024/09/16 23:42:16 magicsock: derp-1 connected; connGen=1
 2024/09/16 23:42:16 health("overall"): ok
+2024/09/16 23:53:26 wgengine: Reconfig: configuring router
+2024/09/16 23:53:26 wgengine: Reconfig: configuring DNS
+2024/09/16 23:53:26 dns: Set: {DefaultResolvers:[] Routes:{tail463e67.ts.net.:[] ts.net.:[199.247.155.53 2620:111:8007::53]}+65arpa SearchDomains:[tail463e67.ts.net.] Hosts:9}
+2024/09/16 23:53:26 dns: Resolvercfg: {Routes:{.:[127.0.0.53 168.63.129.16] ts.net.:[199.247.155.53 2620:111:8007::53]} Hosts:9 LocalDomains:[tail463e67.ts.net.]+65arpa, cloud="azure"}
+2024/09/16 23:53:26 dns: OScfg: {Nameservers:[100.100.100.100] SearchDomains:[tail463e67.ts.net. as3oyaxyermercpknrxo0v1cld.cx.internal.cloudapp.net.] }
+2024/09/16 23:53:26 restarted resolved after 1ms
+2024/09/16 23:53:26 wgengine: Reconfig: configuring userspace WireGuard config (with 0/7 peers)
+2024/09/16 23:53:26 wgengine: Reconfig: configuring router
+2024/09/16 23:53:26 wgengine: Reconfig: configuring DNS
+2024/09/16 23:53:26 dns: Set: {DefaultResolvers:[] Routes:{tail463e67.ts.net.:[] ts.net.:[199.247.155.53 2620:111:8007::53]}+65arpa SearchDomains:[tail463e67.ts.net.] Hosts:9}
+2024/09/16 23:53:26 dns: Resolvercfg: {Routes:{.:[127.0.0.53 168.63.129.16] ts.net.:[199.247.155.53 2620:111:8007::53]} Hosts:9 LocalDomains:[tail463e67.ts.net.]+65arpa, cloud="azure"}
+2024/09/16 23:53:26 dns: OScfg: {Nameservers:[100.100.100.100] SearchDomains:[tail463e67.ts.net. as3oyaxyermercpknrxo0v1cld.cx.internal.cloudapp.net.] }
+2024/09/16 23:53:26 restarted resolved after 1ms
